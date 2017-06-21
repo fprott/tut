@@ -1,1 +1,1 @@
-Pi ist 3,14
+Pi ist 3.14
